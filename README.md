@@ -1,0 +1,2 @@
+# Optimizing-Social-Media-Engagement-for-a-Cosmetic-Brand-Using-Facebook-Metrics
+This project aims to analyze Facebook post performance for a cosmetic brand by exploring different post types (Link, Photo, Status, Video) and their impact on user engagement (comments, likes, shares). The goal is to identify patterns and trends that can help the brand optimize its content strategy to maximize engagement.
